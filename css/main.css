@@ -1,0 +1,71 @@
+main{
+    background-color: white;
+    text-align: center;
+    height: 100%;
+}
+.sign-in{
+    height: 100%;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    padding-top: 0px;
+    border: 1px solid lightgrey;
+    text-align: left;
+    
+}
+input{
+    margin: 15px;
+    outline: none;
+    width: 90%;
+    
+}
+img{
+    width: 103px;
+    padding: 20px;
+}
+.user-info li{
+    display: inline;
+    margin: 31px;
+}
+#button_one{
+    color: black;
+    background-color: orange;
+    width: 100%;
+    outline: none;
+    border: 1px solid grey;
+}
+#button_two{
+    color: black;
+    background-color: lightgrey;
+    width: 24%;
+    outline: none;
+    border: 1px solid grey;
+}
+footer{
+    bottom: 0px;
+    width: 100%;
+    background-color: white;
+    height: 5vh;
+    margin-top: 0px;
+    padding: 20px;
+}
+
+footer div{
+    text-align: center;
+    color: black;
+}
+
+footer hr{
+    margin-top: 0%;
+    height: 3px;
+    border: 0px;
+    box-shadow: inset 0px 1px 1px black;
+}
+
+nav li{
+    display: inline;
+    margin: 10px;
+}
+.links{
+    text-decoration: none;
+}
